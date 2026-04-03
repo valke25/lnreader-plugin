@@ -1,0 +1,13 @@
+{
+  "name": "Custom Plugin Repo",
+  "plugins": [
+    {
+      "name": "Word Replacement Plugin",
+      "id": "word.replacement.plugin",
+      "version": "1.0.0",
+      "description": "Replace words and format text",
+      "file": "main.js",
+      "author": "Valkernel25"
+    }
+  ]
+}
