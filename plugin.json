@@ -1,0 +1,8 @@
+{
+  "name": "Word Replacement Plugin",
+  "id": "word.replacement.plugin",
+  "version": "1.0.0",
+  "description": "Replace words and format text in LNReader",
+  "main": "main.js",
+  "author": "You"
+}
